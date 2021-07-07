@@ -1,0 +1,80 @@
+h1{
+	color: grey
+} 
+h3{
+	color: grey
+}
+
+p{
+	font-style: oblique;
+	font-family:helvetica, sans-serif;
+
+}
+table{
+	border-collapse: collapse;
+	border-color: black
+    border-width: 1px;
+   
+}
+.gallery img {
+	width: 60%
+	height:60%;
+
+}
+#MENU{
+	width:100%;
+	height:40px;
+	background-color: violet
+}
+#MENU a{
+	
+	background-color: grey;
+	color:white;
+	font-family:helvetica, sans-serif;
+	font-size:18px;
+	text-decoration:none; 
+	font-weight:800; 
+
+	padding-left:30px;
+	padding-right:30px;
+
+}
+#MENU a:hover{
+	color: black;
+}
+br{
+	color: grey
+	font-size: 16px;
+}
+th{
+	color: black;
+	font-weight:800;
+	font-size:37;
+	font-family:  sans-serif;
+	text-align: center;
+	font-style: italic;
+}
+td{
+	color: black;
+	font-weight:400;
+	font-size:24;
+	font-family:  sans-serif;
+	text-align: center;
+	font-style: italic;
+}
+h4{
+	background-color: grey;
+	color:white;
+	font-family:helvetica, sans-serif;
+	font-size:18px;
+	text-decoration:none; 
+	font-weight:800; 
+
+	padding-left:30px;
+	padding-right:30px;
+}
+h4{
+	
+   a:hover{
+	color: black;
+}
